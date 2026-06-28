@@ -182,3 +182,24 @@ The OpenAI valuation debate should be framed as a probability-weighted platform 
 - $1T requires a very strong outcome: roughly $120B-$190B 2030 revenue, 30%+ FCF margin, and a durable terminal multiple.
 
 Until revenue, gross margin, burn, and compute economics are better sourced, any $1T conclusion should remain scenario-based rather than base-case.
+
+## Addendum After Task #28 Evidence Layer
+
+EvidenceAnalyst's source map adds a stronger official operating anchor: OpenAI disclosed $2B revenue/month, or roughly $24B annualized run-rate. It also confirms $122B committed capital at an $852B post-money valuation. These improve the scenario support test, but they do not remove the main uncertainty because gross margin, inference unit cost, burn, cloud partner economics, retention/NRR, and IPO governance path remain missing critical inputs.
+
+Using the official ~$24B annualized run-rate as the starting revenue base:
+
+| Scenario | Required 2030 revenue | Required CAGR from $24B run-rate |
+|---|---:|---:|
+| $500B base case | $95.2B | 35.8% |
+| $850B base case | $161.8B | 52.8% |
+| $1T base case | $190.3B | 58.4% |
+| $1T bull case | $123.4B | 43.9% |
+| $1T super-bull case | $86.5B | 33.0% |
+
+Interpretation:
+- The official $24B run-rate makes a $500B valuation much easier to support if revenue growth remains high and FCF margin can scale toward 25%.
+- The official $852B post-money valuation sits close to the $850B scenario. Under base-case assumptions, that requires OpenAI to compound from ~$24B to ~$162B 2030 revenue, or roughly 53% CAGR, while reaching about $40B 2030 FCF.
+- A $1T valuation still requires a platform-scale case. Even with the official $24B run-rate, the base case needs roughly 58% CAGR to ~$190B 2030 revenue and ~$48B FCF. The bull and super-bull cases require less revenue but demand much stronger margin and terminal-multiple assumptions.
+
+Updated working conclusion: the $852B private valuation can be framed as aggressive but analyzable using official revenue scale. The $1T case should remain a scenario until OpenAI provides or credible sources establish gross margin, burn, compute commitments, partner economics, and retention.
