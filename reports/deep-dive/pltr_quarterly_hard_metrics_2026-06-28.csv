@@ -1,0 +1,14 @@
+metric,q1_2025,q2_2025,q3_2025,q4_2025,q1_2026,unit,source_label,source
+revenue,884,1004,1181,1407,1633,USD_millions,confirmed,Palantir Q1 2026 business update appendix
+billings,905,1102,1226,1489,1750,USD_millions,confirmed,Palantir Q1 2026 business update appendix
+total_rpo,1900,2420,2600,4080,4450,USD_millions,confirmed,Palantir Q1 2026 business update appendix
+short_term_rpo,900,1100,1230,1490,1750,USD_millions,confirmed,Palantir Q1 2026 business update appendix
+long_term_rpo,1000,1400,1460,2540,2700,USD_millions,confirmed,Palantir Q1 2026 business update appendix
+gaap_operating_income,176,269,393,575,754,USD_millions,confirmed,Palantir Q1 2026 business update appendix
+adjusted_operating_income,391,464,601,798,984,USD_millions,confirmed,Palantir Q1 2026 business update appendix
+stock_based_compensation,155,160,172,196,202,USD_millions,confirmed,Palantir Q1 2026 business update appendix
+adjusted_operating_margin,44,46,51,57,60,percent,confirmed,Palantir Q1 2026 business update appendix
+rule_of_40_score,83,94,114,127,145,percent,confirmed,Palantir Q1 2026 business update appendix
+total_customer_count,769,849,911,954,1007,count,confirmed,Palantir Q1 2026 business update
+commercial_customer_count,622,692,742,780,832,count,confirmed,Palantir Q1 2026 business update
+us_commercial_customer_count,432,485,530,571,615,count,confirmed,Palantir Q1 2026 business update
